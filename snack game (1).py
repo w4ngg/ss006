@@ -19,9 +19,9 @@ blue = pygame.Color(0, 0, 255)
  
 # khai bao pygame
 pygame.init()
- 
+
 # khai bao game window
-pygame.display.set_caption('GeeksforGeeks Snakes')
+pygame.display.set_caption('Snacks Game')
 game_window = pygame.display.set_mode((window_x, window_y))
  
 # FPS cho tro choi (frame per second)
